@@ -22,7 +22,7 @@
 	"dependencies": {
 		"@thi.ng/color": "workspace:^",
 		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/geom-webgl": "workspace:^",
+		"@thi.ng/geom-webgl": "0.1.0",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/matrices": "workspace:^",
 		"@thi.ng/object-utils": "workspace:^",
