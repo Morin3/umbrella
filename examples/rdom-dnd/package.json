@@ -20,7 +20,7 @@
 		"vite": "^5.3.3"
 	},
 	"dependencies": {
-		"@thi.ng/api": "workspace:^",
+		"@thi.ng/api": "1.0.0",
 		"@thi.ng/hiccup-carbon-icons": "workspace:^",
 		"@thi.ng/hiccup-html": "workspace:^",
 		"@thi.ng/rdom": "workspace:^",
