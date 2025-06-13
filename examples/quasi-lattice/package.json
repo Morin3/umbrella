@@ -17,9 +17,9 @@
 	},
 	"dependencies": {
 		"@thi.ng/geom": "workspace:^",
-		"@thi.ng/geom-voronoi": "workspace:^",
+		"@thi.ng/geom-voronoi": "0.1.0",
 		"@thi.ng/lowdisc": "workspace:^",
-		"@thi.ng/rdom-canvas": "workspace:^",
+		"@thi.ng/rdom-canvas": "0.2.0",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
