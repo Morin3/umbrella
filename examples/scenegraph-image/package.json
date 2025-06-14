@@ -18,7 +18,7 @@
 		"@thi.ng/hdom-canvas": "workspace:^",
 		"@thi.ng/matrices": "workspace:^",
 		"@thi.ng/pixel": "workspace:^",
-		"@thi.ng/scenegraph": "workspace:^",
+		"@thi.ng/scenegraph": "0.1.0",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/vectors": "workspace:^"
 	},
