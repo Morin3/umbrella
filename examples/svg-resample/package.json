@@ -18,11 +18,11 @@
 	"dependencies": {
 		"@thi.ng/geom": "workspace:^",
 		"@thi.ng/hiccup-html": "workspace:^",
-		"@thi.ng/hiccup-svg": "workspace:^",
+		"@thi.ng/hiccup-svg": "0.1.0",
 		"@thi.ng/math": "workspace:^",
-		"@thi.ng/rdom": "workspace:^",
+		"@thi.ng/rdom": "0.7.0",
 		"@thi.ng/rstream": "workspace:^",
-		"@thi.ng/sax": "workspace:^",
+		"@thi.ng/sax": "0.0.1",
 		"@thi.ng/transducers": "workspace:^"
 	},
 	"browser": {
