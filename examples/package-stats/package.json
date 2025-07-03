@@ -17,7 +17,7 @@
 		"@thi.ng/dgraph": "workspace:^",
 		"@thi.ng/file-io": "workspace:^",
 		"@thi.ng/hiccup": "workspace:^",
-		"@thi.ng/hiccup-svg": "workspace:^",
+		"@thi.ng/hiccup-svg": "0.1.0",
 		"@thi.ng/math": "workspace:^",
 		"@thi.ng/paths": "workspace:^",
 		"@thi.ng/strings": "workspace:^",
