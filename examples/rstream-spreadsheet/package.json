@@ -24,7 +24,7 @@
 		"@thi.ng/paths": "workspace:^",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/rstream-graph": "workspace:^",
-		"@thi.ng/sexpr": "workspace:^",
+		"@thi.ng/sexpr": "0.1.0",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^",
 		"@thi.ng/transducers-hdom": "workspace:^"
