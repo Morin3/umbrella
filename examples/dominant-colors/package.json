@@ -28,7 +28,7 @@
 		"@thi.ng/pixel": "workspace:^",
 		"@thi.ng/pixel-dominant-colors": "workspace:^",
 		"@thi.ng/rdom": "workspace:^",
-		"@thi.ng/rdom-forms": "workspace:^",
+		"@thi.ng/rdom-forms": "0.1.0",
 		"@thi.ng/rstream": "workspace:^",
 		"@thi.ng/strings": "workspace:^",
 		"@thi.ng/transducers": "workspace:^"
