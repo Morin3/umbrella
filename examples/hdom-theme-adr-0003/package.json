@@ -14,7 +14,7 @@
 	"dependencies": {
 		"@thi.ng/api": "workspace:^",
 		"@thi.ng/hdom": "workspace:^",
-		"@thi.ng/paths": "workspace:^"
+		"@thi.ng/paths": "5.1.63"
 	},
 	"browser": {
 		"process": false,
