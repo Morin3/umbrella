@@ -17,7 +17,7 @@
 	},
 	"dependencies": {
 		"@thi.ng/api": "workspace:^",
-		"@thi.ng/cache": "workspace:^",
+		"@thi.ng/cache": "0.0.1",
 		"@thi.ng/file-io": "workspace:^",
 		"@thi.ng/hiccup": "workspace:^",
 		"@thi.ng/logger": "workspace:^",
