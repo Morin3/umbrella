@@ -41,7 +41,7 @@
 		"@thi.ng/axidraw": "^1.1.87",
 		"@thi.ng/compare": "^2.3.10",
 		"@thi.ng/defmulti": "^3.0.45",
-		"@thi.ng/geom": "^8.0.6",
+		"@thi.ng/geom": "^0.0.1",
 		"@thi.ng/geom-accel": "^4.0.6",
 		"@thi.ng/geom-clip-line": "^2.3.96",
 		"@thi.ng/geom-isec": "^4.0.6",
