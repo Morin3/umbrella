@@ -48,7 +48,7 @@
 		"@thi.ng/pixel": "^7.2.1",
 		"@thi.ng/pixel-dither": "^1.1.139",
 		"@thi.ng/prefixes": "^2.3.24",
-		"sharp": "^0.33.4"
+		"sharp": "^0.35.0"
 	},
 	"devDependencies": {
 		"@microsoft/api-extractor": "^7.47.0",
